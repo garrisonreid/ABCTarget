@@ -1,0 +1,79 @@
+Store,Title,Address,City,State,Zip,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source
+Target,Apex,"1201 Beaver Creek Commons Dr",Apex,NC,27502,35.744878,-78.877787,1,rooftop,1201,"Beaver Creek Commons Dr",,,Apex,NC,"Wake County",27502,US,Cary
+Target,"Cary West","7129 O'Kelly Chapel Road",Cary,NC,27519,35.84442,-78.885599,1,rooftop,7129,"Okelly Chapel Rd",,,Cary,NC,"Wake County",27519,US,Cary
+Target,Cary,"2021 Walnut St",Cary,NC,27518,35.75815,-78.739405,1,rooftop,2021,"Walnut St",,,Cary,NC,"Wake County",27518,US,Cary
+Target,"Durham Renaissance Pkwy","8210 Renaissance Pkwy",Durham,NC,27713,35.902705,-78.956705,1,rooftop,8210,"Renaissance Pkwy",,,Durham,NC,"Durham County",27713,US,Durham
+Target,Durham,"4037 Durham Chapel Hill Blvd",Durham,NC,27707,35.966623,-78.959302,1,rooftop,4037,"Durham Chapel Hill Blvd",,,Durham,NC,"Durham County",27707,US,Durham
+Target,Garner,"2700 Timber Dr",Garner,NC,27529,35.715334,-78.638484,1,rooftop,2700,"Timber Dr",,,Garner,NC,"Wake County",27529,US,Wake
+Target,Goldsboro,"1204 Sunburst Dr",Goldsboro,NC,27534,35.380193,-77.939121,1,rooftop,1204,"Sunburst Dr",,,Goldsboro,NC,"Wayne County",27534,US,Wayne
+Target,"Holly Springs","100 Grand Hill Place","Holly Springs",NC,27540,35.660395,-78.851487,1,rooftop,100,"Grand Hill Pl",,,"Holly Springs",NC,"Wake County",27540,US,Cary
+Target,Knightdale,"1000 Shoppes at Midway Dr",Knightdale,NC,27545,35.798022,-78.509785,1,rooftop,1000,"Shoppes At Midway Dr",,,Knightdale,NC,"Wake County",27545,US,Wake
+Target,Morrisville,"3001 Market Center Dr",Morrisville,NC,27560,35.805626,-78.815842,1,rooftop,3001,"Market Center Dr",,,Morrisville,NC,"Wake County",27560,US,Cary
+Target,"Raleigh Brier Creek","8651 Brier Creek Pkwy",Raleigh,NC,27617,35.902967,-78.785872,1,rooftop,8651,"Brier Creek Pkwy",,,Raleigh,NC,"Wake County",27617,US,Cary
+Target,"Raleigh Capital Blvd","7900 Old Wake Forest Rd",Raleigh,NC,27616,35.866267,-78.568144,1,rooftop,7900,"Old Wake Forest Rd",,,Raleigh,NC,"Wake County",27616,US,Wake
+Target,"Raleigh Hwy 70","4841 Grove Barton Rd",Raleigh,NC,27613,35.869201,-78.718666,1,rooftop,4841,"Grove Barton Rd",,,Raleigh,NC,"Wake County",27613,US,Wake
+Target,"Raleigh NC State Hillsborough St","2512 Hillsborough St",Raleigh,NC,27607,35.788244,-78.668741,1,rooftop,2512,"Hillsborough St",,,Raleigh,NC,"Wake County",27607,US,Wake
+Target,"Raleigh North Hills","4191 The Circle at North Hills St",Raleigh,NC,27609,35.686205,-78.785772,0.48,nearest_rooftop_match,4209,"Surry Ridge Cir",,,Apex,NC,"Wake County",27539,US,Cary
+Target,"Raleigh Six Forks Rd","8701 Six Forks Rd",Raleigh,NC,27615,35.898514,-78.652419,1,rooftop,8701,"6 Forks Rd",,,Raleigh,NC,"Wake County",27615,US,Wake
+Target,"UNC Franklin St","143 W Franklin St Ste 120","Chapel Hill",NC,27516,35.911484,-79.057935,1,rooftop,143,"W Franklin St",Ste,120,"Chapel Hill",NC,"Orange County",27516,US,Indemnification
+Target,"Wake Forest","12000 Retail Dr","Wake Forest",NC,27587,35.974191,-78.541855,1,rooftop,12000,"Retail Dr",,,"Wake Forest",NC,"Wake County",27587,US,Wake
+Target,"White Oak Garner","1040 Timber Dr E",Garner,NC,27529,35.687484,-78.579632,1,rooftop,1040,"Timber Dr E",,,Garner,NC,"Wake County",27529,US,Wake
+Target,Wilson,"3401 Raleigh Road Pkwy W",Wilson,NC,27896,35.741336,-77.962762,1,rooftop,3401,"Raleigh Road Pkwy W",,,Wilson,NC,"Wilson County",27896,US,"NC Geographic Information Coordinating Council"
+"ABC Store",,"100 Village Walk Dr","Holly Springs",NC,27540,35.641067,-78.840315,1,rooftop,100,"Village Walk Dr",,,"Holly Springs",NC,"Wake County",27540,US,Cary
+"ABC Store",,"10435 US 64 Hwy E",Apex,NC,27523,35.737774,-79.002978,1,rooftop,10435,"US 64 Hwy E",,,Apex,NC,"Chatham County",27523,US,Chatham
+"ABC Store",,"109 Oakdale Dr + LBD",Hillsborough,NC,27278,36.051709,-79.103559,1,rooftop,109,"Oakdale Dr",,,Hillsborough,NC,"Orange County",27278,US,Indemnification
+"ABC Store",,"111 S. Pollock St",Selma,NC,27576,35.536175,-78.284489,1,range_interpolation,111,"S Pollock St",,,Selma,NC,"Johnston County",27576,US,"TIGER/Line® dataset from the US Census Bureau"
+"ABC Store",,"11312 US Hwy 15-501 N, Ste 302","Chapel Hill",NC,27517,35.844435,-79.08945,1,rooftop,11312,"US 15-501 N",Ste,302,Durham,NC,"Chatham County",27517,US,Chatham
+"ABC Store",,"11360 Capital Boulevard","Wake Forest",NC,27587,35.954096,-78.53958,1,rooftop,11360,"Capital Blvd",,,"Wake Forest",NC,"Wake County",27587,US,Wake
+"ABC Store",,"115 Sherron Road",Durham,NC,27703,35.975622,-78.792876,1,rooftop,115,"Sherron Rd",,,Durham,NC,"Durham County",27703,US,Durham
+"ABC Store",,"1170 US Hwy 1 - Suite 150",Youngsville,NC,27596,36.039639,-78.496615,1,rooftop,1170,"US 1 Hwy",Ste,150,Youngsville,NC,"Franklin County",27596,US,Franklin
+"ABC Store",,"121 N. Railroad St",Benson,NC,27504,35.381931,-78.54775,1,range_interpolation,121,"N Railroad St",,,Benson,NC,"Johnston County",27504,US,"TIGER/Line® dataset from the US Census Bureau"
+"ABC Store",,"1220 Wicker Dr",Raleigh,NC,27604,35.809237,-78.618113,1,rooftop,1220,"Wicker Dr",,,Raleigh,NC,"Wake County",27604,US,Wake
+"ABC Store",,"1222 New Bern Ave",Raleigh,NC,27601,35.779576,-78.620442,0.99,rooftop,1222,"New Bern Ave",,,Raleigh,NC,"Wake County",27610,US,Wake
+"ABC Store",,"12487 US-70 Bus.",Clayton,NC,27520,35.673206,-78.485297,0.7,street_center,,"State Rd 1004",,,Clayton,NC,"Johnston County",27520,US,"TIGER/Line® dataset from the US Census Bureau"
+"ABC Store",,"12524 NC Hwy 210, Suite 101",Benson,NC,27504,35.517837,-78.563094,1,rooftop,12524,"NC Hwy 210",Ste,101,Benson,NC,"Johnston County",27504,US,"NC Geographic Information Coordinating Council"
+"ABC Store",,"1415 Hwy 55",Apex,NC,27502,35.749814,-78.876669,0.96,range_interpolation,1415,"NC 55 W",,,Apex,NC,"Wake County",27523,US,"TIGER/Line® dataset from the US Census Bureau"
+"ABC Store",,"1420 N. Arendell Ave",Zebulon,NC,27597,35.839995,-78.325353,1,rooftop,1420,"N Arendell Ave",,,Zebulon,NC,"Wake County",27597,US,Wake
+"ABC Store",,"1505 Banyon Place",Wendell,NC,27597,35.804372,-78.419428,0.99,rooftop,1505,"Banyon Pl",,,Wendell,NC,"Wake County",27591,US,Wake
+"ABC Store",,"1515 North Pointe Drive, Suite 101",Durham,NC,27705,36.027259,-78.916424,1,rooftop,1515,"N Pointe Dr",Ste,101,Durham,NC,"Durham County",27705,US,Durham
+"ABC Store",,"1601-61 Cross Link Rd",Raleigh,NC,27610,35.754833,-78.614813,0.9,nearest_rooftop_match,1601,"Cross Link Rd",,,Raleigh,NC,"Wake County",27610,US,Wake
+"ABC Store",,"1793 W. Williams St - Hwy 55",Apex,NC,27502,35.759411,-78.876518,0.97,rooftop,1793,"W Williams St",,,Apex,NC,"Wake County",27523,US,Cary
+"ABC Store",,"1928 Holloway Street",Durham,NC,27703,35.991947,-78.867352,1,rooftop,1928,"Holloway St",,,Durham,NC,"Durham County",27703,US,Durham
+"ABC Store",,"1940 Cinema Drive","Fuquay Varina",NC,27526,35.601797,-78.753195,1,rooftop,1940,"Cinema Dr",,,"Fuquay Varina",NC,"Wake County",27526,US,Cary
+"ABC Store",,"200 New Rand Road",Garner,NC,27529,35.701636,-78.602236,1,rooftop,200,"New Rand Rd",,,Garner,NC,"Wake County",27529,US,Wake
+"ABC Store",,"201 Cornelius St / Hwy 70 Bypass",Hillsborough,NC,27278,36.087283,-79.104041,1,rooftop,201,"Cornelius St",,,Hillsborough,NC,"Orange County",27278,US,Indemnification
+"ABC Store",,"2109-106 Avent Ferry Rd",Raleigh,NC,27606,35.778365,-78.676054,0.9,nearest_rooftop_match,2109,"Avent Ferry Rd",,,Raleigh,NC,"Wake County",27606,US,Wake
+"ABC Store",,"2121 TW Alexander Drive, Suite 115",Morrisville,NC,27560,35.920257,-78.810621,1,rooftop,2121,"T W Alexander Dr",Ste,115,Morrisville,NC,"Durham County",27560,US,"NC Geographic Information Coordinating Council"
+"ABC Store",,"251 Perkins Drive + LBD","Chapel Hill",NC,27516,35.966148,-79.058086,1,rooftop,251,"Perkins Dr",,,"Chapel Hill",NC,"Orange County",27514,US,Indemnification
+"ABC Store",,"2589 W. Lyon Station Rd",Creedmoor,NC,27522,36.15265,-78.726352,1,rooftop,2589,"W Lyon Station Rd",,,Creedmoor,NC,"Granville County",27522,US,"NC Geographic Information Coordinating Council"
+"ABC Store",,"260 Bratton Dr",Garner,NC,27529,35.611076,-78.563739,0.85,nearest_rooftop_match,310,"Bratton Dr",,,Garner,NC,"Johnston County",27529,US,"NC Geographic Information Coordinating Council"
+"ABC Store",,"2649 Appliance Ct",Raleigh,NC,27604,35.815452,-78.60222,1,range_interpolation,2649,"Appliance Ct",,,Raleigh,NC,"Wake County",27604,US,"TIGER/Line® dataset from the US Census Bureau"
+"ABC Store",,"2806 Hillsborough Rd",Durham,NC,27705,36.013626,-78.932016,1,rooftop,2806,"Hillsborough Rd",,,Durham,NC,"Durham County",27705,US,Durham
+"ABC Store",,"300 Market Street - Suite 122 + LBD","Chapel Hill",NC,27516,35.880825,-79.065249,1,rooftop,300,"Market St",Ste,122,"Chapel Hill",NC,"Orange County",27516,US,Indemnification
+"ABC Store",,"305 N. Raleigh St",Angier,NC,27501,35.511651,-78.741144,1,rooftop,305,"N Raleigh St",,,Angier,NC,"Harnett County",27501,US,Harnett
+"ABC Store",,"3320 Olympia Dr",Raleigh,NC,27603,35.734504,-78.651577,1,rooftop,3320,"Olympia Dr",,,Raleigh,NC,"Wake County",27603,US,Wake
+"ABC Store",,"3378 US 1 Hwy",Franklinton,NC,27525,36.099178,-78.465394,1,rooftop,3378,"US 1 Hwy",,,Franklinton,NC,"Franklin County",27525,US,Franklin
+"ABC Store",,"36 Flowers Crossroads Way",Clayton,NC,27527,35.654836,-78.348197,1,rooftop,36,"Flowers Crossroads Way",,,Clayton,NC,"Johnston County",27527,US,"NC Geographic Information Coordinating Council"
+"ABC Store",,"3615 SW Cary Pkwy",Cary,NC,27513,35.781125,-78.838386,1,rooftop,3615,"SW Cary Pkwy",,,Cary,NC,"Wake County",27513,US,Cary
+"ABC Store",,"3620 Durham Chapel Hill Blvd",Durham,NC,27707,35.972037,-78.949768,1,rooftop,3620,"Durham Chapel Hill Blvd",,,Durham,NC,"Durham County",27707,US,Durham
+"ABC Store",,"4009 Davis Drive",Morrisville,NC,27560,35.835131,-78.856497,1,rooftop,4009,"Davis Dr",,,Morrisville,NC,"Wake County",27560,US,Cary
+"ABC Store",,"40120 Moring Dr","Chapel Hill",NC,27517,35.854651,-79.024192,1,rooftop,40120,"Moring Dr",,,"Chapel Hill",NC,"Chatham County",27517,US,"NC Geographic Information Coordinating Council"
+"ABC Store",,"420 Woodburn Rd",Raleigh,NC,27605,35.790232,-78.658679,1,rooftop,420,"Woodburn Rd",,,Raleigh,NC,"Wake County",27605,US,Cary
+"ABC Store",,"4261 The Circle At North Hills Street",Raleigh,NC,27609,35.686674,-78.786949,0.47,nearest_rooftop_match,4225,"Surry Ridge Cir",,,Apex,NC,"Wake County",27539,US,Cary
+"ABC Store",,"4501 Vineyard Pine Ln",Rolesville,NC,27571,35.906832,-78.478943,1,rooftop,4501,"Vineyard Pine Ln",,,Rolesville,NC,"Wake County",27571,US,Wake
+"ABC Store",,"4717 Hope Valley Road",Durham,NC,27707,35.92173,-78.957278,1,rooftop,4717,"Hope Valley Rd",,,Durham,NC,"Durham County",27707,US,Durham
+"ABC Store",,"5122 N. Roxboro Rd",Durham,NC,27712,36.069938,-78.906791,0.94,rooftop,5122,"N Roxboro St",,,Durham,NC,"Durham County",27704,US,Durham
+"ABC Store",,"5413 Groucho Rd",Durham,NC,27705,36.035002,-79.00515,1,rooftop,5413,"Groucho Rd",,,Durham,NC,"Orange County",27705,US,Indemnification
+"ABC Store",,"5435 NC Hwy 39 S",Bunn,NC,27508,35.957448,-78.250098,0.9,range_interpolation,5435,"State Hwy 39",,,Bunn,NC,"Franklin County",27508,US,"TIGER/Line® dataset from the US Census Bureau"
+"ABC Store",,"5608 NC Hwy 55",Durham,NC,27713,35.886047,-78.895336,1,rooftop,5608,"NC 55 Hwy",,,Durham,NC,"Durham County",27713,US,Durham
+"ABC Store",,"609 Meadowmont Village + LBD","Chapel Hill",NC,27517,35.905775,-79.010173,1,rooftop,609,"Meadowmont Village Cir",,,"Chapel Hill",NC,"Orange County",27517,US,Indemnification
+"ABC Store",,"6301 Town Center Dr",Raleigh,NC,27616,35.870104,-78.577574,1,rooftop,6301,"Town Center Dr",,,Raleigh,NC,"Wake County",27616,US,Wake
+"ABC Store",,"6494 Tryon Rd",Cary,NC,27511,35.744571,-78.7626,1,rooftop,6494,"Tryon Rd",,,Cary,NC,"Wake County",27518,US,Cary
+"ABC Store",,"665 Cary Towne Blvd",Cary,NC,27511,35.776756,-78.766775,1,rooftop,665,"Cary Towne Blvd",,,Cary,NC,"Wake County",27511,US,Wake
+"ABC Store",,"6809 Davis Circle",Raleigh,NC,27612,35.862754,-78.71008,1,rooftop,6809,"Davis Cir",,,Raleigh,NC,"Wake County",27613,US,Wake
+"ABC Store",,"70 Sanford Rd",Pittsboro,NC,27312,35.719349,-79.17837,1,rooftop,70,"Sanford Rd",,,Pittsboro,NC,"Chatham County",27312,US,Chatham
+"ABC Store",,"704 Money Ct",Knightdale,NC,27545,35.798413,-78.473205,1,rooftop,704,"Money Ct",,,Knightdale,NC,"Wake County",27545,US,Wake
+"ABC Store",,"7112 Sandy Forks Rd",Raleigh,NC,27609,35.871483,-78.623082,0.99,rooftop,7112,"Sandy Forks Rd",,,Raleigh,NC,"Wake County",27615,US,Wake
+"ABC Store",,"7336 Creedmoor Rd",Raleigh,NC,27613,35.887868,-78.678111,1,rooftop,7336,"Creedmoor Rd",,,Raleigh,NC,"Wake County",27613,US,Wake
+"ABC Store",,"7874 Moncure Pittsboro Rd",Moncure,NC,27559,35.625782,-79.089029,1,rooftop,7874,"Moncure Pittsboro Rd",,,Moncure,NC,"Chatham County",27559,US,Chatham
+"ABC Store",,"7911 ACC Blvd",Raleigh,NC,27617,35.916857,-78.779959,1,rooftop,7911,"Acc Blvd",,,Raleigh,NC,"Wake County",27617,US,Cary
